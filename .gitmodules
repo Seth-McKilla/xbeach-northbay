@@ -1,0 +1,7 @@
+[submodule "lib/xbeach-toolbox"]
+	path = lib/xbeach-toolbox
+	url = https://github.com/openearth/xbeach-toolbox.git
+	branch = modelSetup
+[submodule "lib/DEM-to-grid"]
+	path = lib/DEM-to-grid
+	url = https://github.com/Seth-McKilla/DEM-to-grid.git
