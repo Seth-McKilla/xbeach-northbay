@@ -1,5 +1,5 @@
 %% XBeach model: Northbay 
-%% Params created on 2022-04-20 18H:04m 
+%% Params created on 2022-04-20 19H:04m 
 %% Params created by seth 
 
 %% General 
@@ -10,8 +10,8 @@ wbctype             = jonstable
 %% Grid 
 
 vardx               = 1
-nx                  = 174
-ny                  = 180
+nx                  = 145
+ny                  = 186
 xori                = 0
 yori                = 0
 xfile               = x.grd
