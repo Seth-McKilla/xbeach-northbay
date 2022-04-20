@@ -1,17 +1,17 @@
-%% XBeach model: Test som 2 
+%% XBeach model: Northbay 
 %% Params created on 2022-04-20 18H:04m 
 %% Params created by seth 
 
 %% General 
 
 wavemodel           = surfbeat
-wbctype             = jons
+wbctype             = jonstable
 
 %% Grid 
 
 vardx               = 1
 nx                  = 174
-ny                  = 0
+ny                  = 180
 xori                = 0
 yori                = 0
 xfile               = x.grd
@@ -35,7 +35,7 @@ tstop               = 3600
 
 %% Wave boundary condition parameters 
 
-bcfile              = jonswap.txt
+bcfile              = jonstable.txt
 
 %% Output variables 
 
