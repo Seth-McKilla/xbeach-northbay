@@ -1,5 +1,5 @@
 %% XBeach model: Test som 2 
-%% Params created on 2022-04-01 12H:04m 
+%% Params created on 2022-04-20 16H:04m 
 %% Params created by seth 
 
 %% General 
