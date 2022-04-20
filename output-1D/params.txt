@@ -1,5 +1,5 @@
 %% XBeach model: Test som 2 
-%% Params created on 2022-04-20 16H:04m 
+%% Params created on 2022-04-20 18H:04m 
 %% Params created by seth 
 
 %% General 
@@ -10,7 +10,7 @@ wbctype             = jons
 %% Grid 
 
 vardx               = 1
-nx                  = 176
+nx                  = 174
 ny                  = 0
 xori                = 0
 yori                = 0
