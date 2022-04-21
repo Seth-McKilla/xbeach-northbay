@@ -5,3 +5,6 @@
 [submodule "lib/DEM-to-grid"]
 	path = lib/DEM-to-grid
 	url = https://github.com/Seth-McKilla/DEM-to-grid.git
+[submodule "lib/xbeach-visualize"]
+	path = lib/xbeach-visualize
+	url = https://github.com/Seth-McKilla/xbeach-visualize.git
